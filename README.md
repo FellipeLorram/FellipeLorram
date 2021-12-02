@@ -18,6 +18,6 @@ Skills: JS / HTML / CSS / REACT / NODE / PYTHON / GOOGLE CLOUD
 - 💬 Me pergunte sobre qualquer coisa
 - 📫 Como chegar até mim: fellipelorram@gmail.com 
 
-
+<div style="display:flex; gap: 3rem;">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/FellipeLorram)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fellipe-lorram-bezerra-da-silva-61a364201//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@fellipelorram.silva/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@MustafiLorram)  
-
+</div>
