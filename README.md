@@ -1,7 +1,7 @@
 ## 👋 Olá, Meu chamo Fellipe Lorram
 ### Sou um desenvolvedor Web
 
-(https://github-readme-stats.vercel.app/api?username=FellipeLorram&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FellipeLorramshow_icons=true&theme=radical)
 
 Tenho 21 anos e moro no Rio de Janeiro, capital. Sou técnico em informática e programo desde 17 anos. As primeiras linguagens que aprendi foram Pascal, C, e Java. Também estudei C++, mas as que eu realmente gostei foram Python e JavaScript. Nos últimos 2 anos tenho estudado bastante desenvolvimento web, e desenvolvi alguns projetos legais, consegui desenvolver uma aplicação que atualmente é usada por 3 óticas. 
 Sou apaixonado por ciências da computação, principalmente por seu lado filosófico, o simples fato do universo possibilitar computação e ser computável já me fascina. 
