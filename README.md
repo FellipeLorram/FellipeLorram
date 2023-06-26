@@ -13,7 +13,6 @@ Atualmente estou trabalhando como desenvolvedor Front-end Júnior na Circulo CRM
 
 Skills: JS / TS / HTML / CSS / REACT / NODE / PYTHON / GOOGLE CLOUD
 
-- 🔭 Atualmente estou trabalhando Circulo CRM, Scienzee, Optical Manager 
 - 💬 Me pergunte sobre qualquer coisa
 - 📫 Como chegar até mim: fellipelorram@gmail.com, 21 98073-7371
 
