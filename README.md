@@ -5,15 +5,4 @@ Tenho 23 anos e moro no Rio de Janeiro, capital. Sou técnico em informática e 
 Sou apaixonado por ciências da computação, principalmente por seu lado filosófico, o simples fato do universo possibilitar computação e ser computável já me fascina. 
 Atualmente estou trabalhando como desenvolvedor Full-stack (React, Node) pleno na Wasi. Também sou voluntario do projeto Scienzee da UFRJ. 
 
-⚛  React
-📱 Responsive design
-💻 HTML, CSS, JS
-
-Skills: JS / TS / HTML / CSS / REACT / NODE / PYTHON / GOOGLE CLOUD
-
-- 💬 Me pergunte sobre qualquer coisa
-- 📫 Como chegar até mim: fellipelorram@gmail.com, 21 98073-7371
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/FellipeLorram)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fellipe-lorram-bezerra-da-silva-61a364201//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@fellipelorram.silva/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@MustafiLorram)  
-
+fellipelorram@gmail.com, 21 98073-7371
