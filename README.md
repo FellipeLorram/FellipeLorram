@@ -1,8 +1,7 @@
-## 👋 Olá, Meu chamo Fellipe Lorram
-### Sou um desenvolvedor Web
+## 👋 Fellipe Lorram
 
-Tenho 23 anos e moro no Rio de Janeiro, capital. Sou técnico em informática e programo desde 15 anos. As primeiras linguagens que aprendi foram Pascal, C, e Java. Também estudei C++, mas as que eu realmente gostei foram Python e JavaScript. Nos últimos participei de alguns projetos bem legais, consegui desenvolver uma aplicação que atualmente é usada por alguns usúarios em produção. 
-Sou apaixonado por ciências da computação, principalmente por seu lado filosófico, o simples fato do universo possibilitar computação e ser computável já me fascina. 
-Atualmente estou trabalhando como desenvolvedor Full-stack (React, Node) pleno na Wasi. Também sou voluntario do projeto Scienzee da UFRJ. 
-
-fellipelorram@gmail.com, 21 98073-7371
+🪪 I'm a web developer currently living in Brazil;
+⛏️ I'm currently working on Wasi, helping my team to architecture and develop our digital education plataform;
+🧑‍💻 I work with development for at least 3 years, I have experience with some technologies but I stand out with Javascript - React - Node;
+📚 I'm currently learning more about Go Lang and it's ecosystem;
+📧 How to reach me: you could send me a e-mail at fellipelorram@gmail.com or contact-me on linkedin;
